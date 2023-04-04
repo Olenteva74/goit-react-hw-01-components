@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import { getBgColorIsOnline } from 'components/utils/utils';
+import { getBgColorIsOnline } from 'utils';
 
 export const Item = styled.li`
 width: 500px;

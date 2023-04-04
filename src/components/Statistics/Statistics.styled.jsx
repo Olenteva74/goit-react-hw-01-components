@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import { getRandomHexColor, getFlexBasis } from "../utils/utils"
+import { getRandomHexColor, getFlexBasis } from "utils";
 
 export const StatisticsWrapper = styled.section`
 width: 600px;
